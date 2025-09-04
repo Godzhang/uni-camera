@@ -1,1 +1,0 @@
-import{_ as o,l as s,o as a,c as e,i as n}from"./index-1decc8e0.js";const c=o({data:()=>({}),computed:{},onLoad(){},onShow(){},mounted(){s({count:6,sizeType:["original","compressed"],sourceType:["album","camera"],success:async function(o){}})}},[["render",function(o,s,c,t,r,u){const i=n;return a(),e(i,{class:"container"})}]]);export{c as default};
